@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-lloran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Labios que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-lloran/) |
+| **Get License** | [Official Music Licensing for Labios que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-lloran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 9876d6ba8254c3721c2e919df8846cc9ed38ba84
+> Tus labios que lloran pidiendo calor
+> Esta noche oscura nos llena de amor
+> Ese aroma tuyo me hace enloquecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
