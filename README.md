@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-lloran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Labios que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-lloran/) |
+| **Get License** | [License this song: Labios que lloran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-lloran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `983fbc759ed6e34c6cd9fa39de94f78825bb853a82f3d57beec49b60cd0b36f4` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

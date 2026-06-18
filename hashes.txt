@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios que lloran
+
+This log tracks the cryptographic history and versioning for the song **Labios que lloran** (labios-que-lloran).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:11:57.851142 | `v1` | `983fbc759ed6e34c6cd9fa39de94f78825bb853a82f3d57beec49b60cd0b36f4` | `84e926acaee8b5e09a4a85aab113731c03334a776e4e97173895d99fd2adab47` | `2026-06-18_labios-que-lloran-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
